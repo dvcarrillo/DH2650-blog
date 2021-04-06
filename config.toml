@@ -1,4 +1,4 @@
 baseURL = "https://dvcarrillo.com/DH2650-blog/"
 languageCode = "en-us"
-title = "David's dev blog"
+title = "david / dev journal"
 theme = "paper"
