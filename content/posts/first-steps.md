@@ -24,5 +24,5 @@ Shortly after, we needed to present this idea in a small presentation, where we 
 
 ### Logo design
 My major commitment at this stage was to design the logo of the game. At this moment, I master the Sketch app, but I am just learning Adobe Illustrator. Therefore, this was a perfect opportunity to practice and to develop my skills. This was the end result:
-<br><br>
-![Game logo](/images/hop-to-it-logo.png)
+
+![Game logo](https://dvcarrillo.com/DH2650-blog/images/hop-to-it-logo.png)
